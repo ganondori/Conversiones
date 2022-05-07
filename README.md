@@ -3,8 +3,10 @@
 # Conversion ASCII
 
 ////////////////////////////////////////////////////////////////////////////////
+
     #Fernando Perdomo Troche (1092890)
     #Código de conversión de cualquier caracter a ASCII.
+    
 ////////////////////////////////////////////////////////////////////////////////
 
 palabra = input("Por favor entre una palabra: ")    #Pide una palabra
@@ -16,8 +18,10 @@ for char in palabra:                    #Bucle que se repite por cada letra en l
 # Conversion Decimal - binario
 
 ////////////////////////////////////////////////////////////////////////////////
+
     #Fernando Perdomo Troche (1092890).
     #Código de conversión de decimal a binario.
+    
 ////////////////////////////////////////////////////////////////////////////////
 
 num = input("Escriba un número: ")  #Pide un numero.
